@@ -1,0 +1,4 @@
+Symbol()
+Symbol(夕日の日)
+false
+false

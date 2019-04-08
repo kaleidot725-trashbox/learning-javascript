@@ -1,0 +1,10 @@
+10
+255
+18
+21.5
+3000000
+-1.6e-19
+Infinity
+-Infinity
+NaN
+Infinity
