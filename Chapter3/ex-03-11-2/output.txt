@@ -1,3 +1,4 @@
 3
-8
-{ color: '黄色', 'not an identifier': 3, [Symbol()]: 8 }
+黄色
+黄色
+undefined
