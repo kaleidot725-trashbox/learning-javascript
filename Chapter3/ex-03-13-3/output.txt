@@ -1,0 +1,6 @@
+[ 1, 2, 3, 4, 5 ]
+5
+eight-one point three
+マイナス2
+[ 1, 2, 3, 4, 5, '81.3': 'eight-one point three', '-2': 'マイナス2' ]
+5
