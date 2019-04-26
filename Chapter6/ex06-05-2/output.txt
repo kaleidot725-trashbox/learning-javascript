@@ -1,0 +1,3 @@
+true
+My name is undefined
+My name is Wallace

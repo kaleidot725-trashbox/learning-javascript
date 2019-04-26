@@ -1,0 +1,4 @@
+{ name: 'Wallace', speak: [Function: speak] }
+{ '名前': 'ポチ', '話す': [Function: 話す] }
+My name is Wallace
+僕の名前はポチ

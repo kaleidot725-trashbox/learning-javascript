@@ -1,0 +1,4 @@
+{ name: 'Wallace', bark: [Function: bark] }
+{ '名前': 'ポチ', '吠える': [Function: 吠える] }
+Woof!
+ウーッ、ワン！
