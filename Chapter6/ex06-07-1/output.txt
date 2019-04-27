@@ -1,0 +1,2 @@
+{ name: 'Julie', greetBackwards: [Function: greetBackwards] }
+eiluJ si eman ym , olleH
