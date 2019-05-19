@@ -1,0 +1,2 @@
+{ id: 5, name: '太郎' }
+undefined

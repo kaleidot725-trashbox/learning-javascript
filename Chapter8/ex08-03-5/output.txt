@@ -1,0 +1,3 @@
+Person { name: '三郎', id: 2 }
+Person { name: '三郎', id: 2 }
+undefined
