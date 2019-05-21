@@ -1,0 +1,21 @@
+[ 'Beachball' ]
+[ 'Rodeo' ]
+[ 'Angel' ]
+[ 'Angel', 'Aardvark' ]
+[ 'Xylophone' ]
+[ 'November' ]
+[ 'Chocolate' ]
+[ 'Papaya' ]
+[ 'Uniform' ]
+[ 'Joker' ]
+[ 'Chocolate', 'Clover' ]
+[ 'Beachball', 'Bali' ]
+{ B: [ 'Beachball', 'Bali' ],
+  R: [ 'Rodeo' ],
+  A: [ 'Angel', 'Aardvark' ],
+  X: [ 'Xylophone' ],
+  N: [ 'November' ],
+  C: [ 'Chocolate', 'Clover' ],
+  P: [ 'Papaya' ],
+  U: [ 'Uniform' ],
+  J: [ 'Joker' ] }

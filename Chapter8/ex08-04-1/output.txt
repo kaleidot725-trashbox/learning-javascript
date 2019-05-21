@@ -1,0 +1,4 @@
+[ 'iPhone', 'Android' ]
+[ 54800, 49800 ]
+[ 43840, 39840 ]
+[ 'iphone', 'android' ]
