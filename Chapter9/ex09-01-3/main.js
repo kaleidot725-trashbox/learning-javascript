@@ -1,6 +1,5 @@
-const SYM = Symbol();
-const o3 = { a: 1, b: 2, c: 3 };
-o3[SYM] = 4;
-console.log(o3.SYM);
-console.log(o3["SYM"]);
-console.log(o3[SYM]);
+const o = { apple: 1, xochitl: 2, balloon: 3, guitar: 4, xylophone: 5, };
+
+Object.keys(o)
+    .filter(prop => prop.match(/^x/))
+    .forEach(prop => console.log(`${prop}: ${o[prop]}`));

@@ -1,5 +1,6 @@
 const SYM = Symbol();
-const o2 = { a:1, b:2, c:3, SYM:4};
-console.log(o2.SYM);
-console.log(o2["SYM"]);
-console.log(o2[SYM]);
+const o = { a: 1, b: 2, c: 3, [SYM]: 4 };
+const propArray = Object.keys(o);
+console.log(propArray);
+console.log("-------");
+propArray.forEach(prop => console.log(`${prop}: ${o[prop]}`));

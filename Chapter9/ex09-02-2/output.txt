@@ -1,0 +1,20 @@
+Car {
+  make: 'Tesla',
+  model: 'Model S',
+  userGears: [ 'P', 'N', 'R', 'D' ],
+  userGear: 'P' }
+Car {
+  make: 'Mazda',
+  model: '3i',
+  userGears: [ 'P', 'N', 'R', 'D' ],
+  userGear: 'P' }
+Car {
+  make: 'Tesla',
+  model: 'Model S',
+  userGears: [ 'P', 'N', 'R', 'D' ],
+  userGear: 'D' }
+Car {
+  make: 'Mazda',
+  model: '3i',
+  userGears: [ 'P', 'N', 'R', 'D' ],
+  userGear: 'R' 
