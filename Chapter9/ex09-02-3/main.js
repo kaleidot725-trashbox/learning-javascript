@@ -25,3 +25,9 @@ car1.shift('D');
 car2.shift('R');
 console.log(car1);
 console.log(car2);
+
+// Privateではないのでアクセスできるっぽい
+console.log(car1.make);
+console.log(car1.model);
+console.log(car1._userGears);
+console.log(car1._userGear);

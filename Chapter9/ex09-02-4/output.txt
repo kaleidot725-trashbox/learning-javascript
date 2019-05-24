@@ -1,20 +1,20 @@
 Car {
   make: 'Tesla',
   model: 'Model S',
-  _userGears: [ 'P', 'N', 'R', 'D' ],
-  _userGear: 'P' }
+  _userGears: [ 'P', 'N', 'R', 'D' ] }
 Car {
   make: 'Mazda',
   model: '3i',
-  _userGears: [ 'P', 'N', 'R', 'D' ],
-  _userGear: 'P' }
+  _userGears: [ 'P', 'N', 'R', 'D' ] }
 Car {
   make: 'Tesla',
   model: 'Model S',
-  _userGears: [ 'P', 'N', 'R', 'D' ],
-  _userGear: 'D' }
+  _userGears: [ 'P', 'N', 'R', 'D' ] }
 Car {
   make: 'Mazda',
   model: '3i',
-  _userGears: [ 'P', 'N', 'R', 'D' ],
-  _userGear: 'R' }
+  _userGears: [ 'P', 'N', 'R', 'D' ] }
+Tesla
+Model S
+[ 'P', 'N', 'R', 'D' ]
+undefined

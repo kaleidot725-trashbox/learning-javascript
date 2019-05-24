@@ -5,14 +5,14 @@ const Car = (function() {
             this.make = make;
             this.model = model;
             this._userGears = ['P', 'N', 'R', 'D'];
-            this._userGear = this._userGears[0];
+            carProps.set(this, { userGear : this._userGears[0] });
         }
 
-        get userGear() { return _userGear; }
+        get userGear() { return carProps.get(this).userGear; }
         set userGear(value) {
             if (this._userGears.indexOf(value) < 0) 
                 throw new Error(`ギア指定が正しくない: ${value}`);
-            this._userGear = value;
+            carProps.get(this)._userGear = value;
         }
     
         shift(gear) { this.userGear = gear; }
@@ -30,3 +30,8 @@ car1.shift('D');
 car2.shift('R');
 console.log(car1);
 console.log(car2);
+
+console.log(car1.make);
+console.log(car1.model);
+console.log(car1._userGears);
+console.log(car1._userGear);

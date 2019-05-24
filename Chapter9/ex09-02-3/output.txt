@@ -18,3 +18,7 @@ Car {
   model: '3i',
   _userGears: [ 'P', 'N', 'R', 'D' ],
   _userGear: 'R' }
+Tesla
+Model S
+[ 'P', 'N', 'R', 'D' ]
+D
