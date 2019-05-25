@@ -1,0 +1,4 @@
+name: Sub
+isSuper: true
+isSub: true
+sneaky: 非推奨!(継承)

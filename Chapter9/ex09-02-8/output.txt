@@ -1,0 +1,14 @@
+Vehicleが生成された
+[ '太郎', '花子' ]
+Vehicleが生成された
+Carが生成された
+[ '景子', 'ミドリ' ]
+バーンッ!
+Vehicleが生成された
+Carが生成された
+Vehicleが生成された
+true
+true
+false
+true
+true
