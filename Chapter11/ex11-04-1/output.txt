@@ -1,0 +1,31 @@
+a: bを呼び出す前
+b: cを呼び出す前
+c: エラーをスローする
+---- a呼び出し後のerr.stack ----
+Error: c error
+    at c (/Users/kaleidot725/Documents/GitHub/learning-javascript/Chapter10/ex11-04-1/main.js:15:11)
+    at b (/Users/kaleidot725/Documents/GitHub/learning-javascript/Chapter10/ex11-04-1/main.js:9:5)
+    at a (/Users/kaleidot725/Documents/GitHub/learning-javascript/Chapter10/ex11-04-1/main.js:3:5)
+    at Object.<anonymous> (/Users/kaleidot725/Documents/GitHub/learning-javascript/Chapter10/ex11-04-1/main.js:26:5)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+---- 終わり ----
+d: cを呼び出す前
+c: エラーをスローする
+---- d呼び出し後のerr.stack ----
+Error: c error
+    at c (/Users/kaleidot725/Documents/GitHub/learning-javascript/Chapter10/ex11-04-1/main.js:15:11)
+    at d (/Users/kaleidot725/Documents/GitHub/learning-javascript/Chapter10/ex11-04-1/main.js:21:5)
+    at Object.<anonymous> (/Users/kaleidot725/Documents/GitHub/learning-javascript/Chapter10/ex11-04-1/main.js:34:5)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+    at startup (internal/bootstrap/node.js:283:19)
+---- 終わり ----

@@ -1,0 +1,2 @@
+正しい形式のアドレスです:jane@doe.com
+無効なメールアドレスです:aaaaaaaaaaaaaa
