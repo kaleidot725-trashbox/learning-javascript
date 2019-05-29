@@ -1,0 +1,4 @@
+book.next();
+     ^
+
+TypeError: book.next is not a function
