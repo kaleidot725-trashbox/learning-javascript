@@ -1,0 +1,4 @@
+{ value: 'お名前は？', done: false }
+{ value: 'お好きな色は何ですか？', done: false }
+{ value: '楓さんの好きな色は緑だそうですよ。', done: true }
+{ value: undefined, done: true }

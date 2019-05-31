@@ -1,0 +1,3 @@
+{ value: 'a', done: false }
+{ value: 'b', done: false }
+{ value: 'c', done: true }

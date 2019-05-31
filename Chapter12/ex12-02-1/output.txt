@@ -1,0 +1,16 @@
+{ value: '赤', done: false }
+{ value: '橙', done: false }
+{ value: '黄', done: false }
+{ value: '緑', done: false }
+{ value: '青', done: false }
+{ value: '水色', done: false }
+{ value: '紫', done: false }
+{ value: undefined, done: true }
+{ value: undefined, done: true }
+赤
+橙
+黄
+緑
+青
+水色
+紫
