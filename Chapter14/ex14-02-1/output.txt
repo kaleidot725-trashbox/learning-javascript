@@ -1,0 +1,4 @@
+setTimeoutの前: Tue Jun 04 2019 20:55:51 GMT+0900 (Japan Standard Time)
+setTimeoutの後
+これもsetTimeの後
+これは関数fの中: Tue Jun 04 2019 20:56:01 GMT+0900 (Japan Standard Time)

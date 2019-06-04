@@ -1,0 +1,5 @@
+/Users/kaleidot725/Documents/GitHub/learning-javascript/Chapter14/ex14-02-8/main.js:6
+            if (err) throw err;
+                     ^
+
+Error: ENOENT: no such file or directory, open 'does_not_exist.txt'

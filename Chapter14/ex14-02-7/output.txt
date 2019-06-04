@@ -1,0 +1,3 @@
+{ [Error: ENOENT: no such file or directory, open 'a.txt'] errno: -2, code: 'ENOENT', syscall: 'open', path: 'a.txt' }
+{ [Error: ENOENT: no such file or directory, open 'b.txt'] errno: -2, code: 'ENOENT', syscall: 'open', path: 'b.txt' }
+{ [Error: ENOENT: no such file or directory, open 'c.txt'] errno: -2, code: 'ENOENT', syscall: 'open', path: 'c.txt' }

@@ -1,0 +1,4 @@
+setTimeoutの前: Tue Jun 04 2019 20:58:20 GMT+0900 (Japan Standard Time)
+setTimeoutの後
+これもsetTimeの後
+setTimeoutに指定された無名関数の中: Tue Jun 04 2019 20:58:30 GMT+0900 (Japan Standard Time)
