@@ -1,0 +1,72 @@
+~/Documents/GitHub/learning-javascript/Chapter14/ex14-03-6-4 master*
+❯ node main.js
+a.txt: 731.5107910430343
+b.txt: 150.14883136511293
+c.txt: 130.1910088076619
+ファイルc.txtの内容が書き込まれました。
+----
+
+~/Documents/GitHub/learning-javascript/Chapter14/ex14-03-6-4 master*
+❯ node main.js
+a.txt: 496.3929744053821
+b.txt: 239.8087633973107
+c.txt: 539.5893703248622
+ファイルb.txtの内容が書き込まれました。
+----
+
+~/Documents/GitHub/learning-javascript/Chapter14/ex14-03-6-4 master*
+❯ node main.js
+a.txt: 37.67002842064038
+b.txt: 413.9015152118208
+c.txt: 364.9224002765232
+ファイルa.txtの内容が書き込まれました。
+----
+
+~/Documents/GitHub/learning-javascript/Chapter14/ex14-03-6-4 master*
+❯ node main.js
+a.txt: 952.5759963477942
+b.txt: 573.0535445050955
+c.txt: 676.6797273760803
+ファイルb.txtの内容が書き込まれました。
+----
+
+~/Documents/GitHub/learning-javascript/Chapter14/ex14-03-6-4 master*
+❯ node main.js
+a.txt: 265.43053147023767
+b.txt: 360.0989419582414
+c.txt: 401.94844550069075
+ファイルa.txtの内容が書き込まれました。
+----
+
+
+// BとCのファイルがない場合に何度も実行してみる。
+// Aが最速で読み込みが終わるときにはエラーにならない。
+
+~/Documents/GitHub/learning-javascript/Chapter14/ex14-03-6-4 master*
+❯ node main.js
+a.txt: 558.2272617863031
+b.txt: 228.94505213291106
+c.txt: 177.10322711984583
+エラーが起こりました:Error: ENOENT: no such file or directory, open 'c.txt'
+
+~/Documents/GitHub/learning-javascript/Chapter14/ex14-03-6-4 master*
+❯ node main.js
+a.txt: 739.1649641589532
+b.txt: 209.0209963918983
+c.txt: 876.4082387776875
+エラーが起こりました:Error: ENOENT: no such file or directory, open 'b.txt'
+
+~/Documents/GitHub/learning-javascript/Chapter14/ex14-03-6-4 master*
+❯ node main.js
+a.txt: 488.04088105026943
+b.txt: 396.24050032572364
+c.txt: 321.3408373838735
+エラーが起こりました:Error: ENOENT: no such file or directory, open 'c.txt'
+
+~/Documents/GitHub/learning-javascript/Chapter14/ex14-03-6-4 master*
+❯ node main.js
+a.txt: 20.096320610048622
+b.txt: 727.2019829863601
+c.txt: 949.7458032633928
+ファイルa.txtの内容が書き込まれました。
+----

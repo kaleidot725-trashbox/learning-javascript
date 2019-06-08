@@ -1,0 +1,2 @@
+{ value: Promise { <pending> }, done: false }
+{ value: Promise { <pending> }, done: false }

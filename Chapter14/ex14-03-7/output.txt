@@ -1,0 +1,11 @@
+[Running] node "/Users/kaleidot725/Documents/GitHub/learning-javascript/Chapter14/ex14-03-7/main.js"
+
+[Done] exited with code=0 in 0.08 seconds
+
+[Running] node "/Users/kaleidot725/Documents/GitHub/learning-javascript/Chapter14/ex14-03-7/main.js"
+
+[Done] exited with code=0 in 0.074 seconds
+
+[Running] node "/Users/kaleidot725/Documents/GitHub/learning-javascript/Chapter14/ex14-03-7/main.js"
+発射!
+resolve 周回軌道に乗った!

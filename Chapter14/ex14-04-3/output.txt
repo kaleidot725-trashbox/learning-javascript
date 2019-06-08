@@ -1,0 +1,2 @@
+{ value: Promise { <pending> }, done: false }
+エラーが起こりました: Error: ENOENT: no such file or directory, open 'b.txt'
