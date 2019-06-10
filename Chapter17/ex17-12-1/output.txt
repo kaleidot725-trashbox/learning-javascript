@@ -1,0 +1,3 @@
+[ 'oreilly.com', 'test.org', 'hanpanai.edu' ]
+[ 'hoge', 'hoge', 'hoge', 'hoge', 'hoge', 'hoge' ]
+[ 'http://insecure.com', 'https://secure.com', '//anything.com' ]

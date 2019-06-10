@@ -1,0 +1,2 @@
+<a href="/www.xxx.yyy">xxxのサイト</a>
+<a href='/www.xxx.yyy'>xxxのサイト</a>

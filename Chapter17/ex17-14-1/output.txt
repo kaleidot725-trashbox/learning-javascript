@@ -1,0 +1,4 @@
+<img alt='A "Simple" example.'>
+<img alt="Don't abuse it!">
+----
+----

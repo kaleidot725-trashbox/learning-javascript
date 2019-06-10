@@ -1,0 +1,4 @@
+Regex pros know the difference between
+<strong>greedy</i> and <i>lazy</strong> matching.
+Regex pros know the difference between
+<strong>greedy</strong> and <strong>lazy</strong> matching.
