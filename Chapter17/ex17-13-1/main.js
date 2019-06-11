@@ -6,5 +6,7 @@ const input = "Regex pros know the difference between\n" +
 const output = input.replace(/<i>(.*)<\/i>/ig, '<strong>$1</strong>');
 console.log(output);
 
+// *?にすると最短マッチ(lazyなマッチング)
 const output2 = input.replace(/<i>(.*?)<\/i>/ig, '<strong>$1</strong>');
 console.log(output2);
+
