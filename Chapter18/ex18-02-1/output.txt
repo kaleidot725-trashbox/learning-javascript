@@ -1,0 +1,14 @@
+true
+main.js:2 null
+main.js:3 NodeList(2) [html, html]
+main.js:4 9
+main.js:5 #document
+main.js:8 子供の数:2
+main.js:9 <!doctype html>
+main.js:10 10
+main.js:11 <html>​<head>​…​</head>​<body>​…​</body>​</html>​
+main.js:12 1
+main.js:13 undefined
+main.js:15 1
+main.js:16 true
+main.js:17 3
