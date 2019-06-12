@@ -1,0 +1,5 @@
+[ '<a href="mailto:john@doe.com">john@doe.com</a>',
+  '<a href="mailto:john@doe.com">john@doe.com</a> is my email',
+  'my email is <a href="mailto:john@doe.com">john@doe.com</a>',
+  'use <a href="mailto:john@doe.com">john@doe.com</a>, my email',
+  'my email:<a href="mailto:john@doe.com">john@doe.com</a>' ]

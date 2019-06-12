@@ -1,0 +1,3 @@
+[ 'One', 'Two', 'Three', 'Four' ]
+[ 'line', 'line', 'line', 'Four' ]
+[ 'あの頃が', 'あの頃は', 'あいつは' ]

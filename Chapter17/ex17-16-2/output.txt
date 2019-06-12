@@ -1,0 +1,4 @@
+/<a>タグが3文字目から見つかった
+リンク対象文字列は「XXX」
+もともとの文字列は「〇〇<a onclick="alert('!!')" class="cl1" href="/foo" id="id1">XXX</a>△△」
+マッチしたのは「<a onclick="alert('!!')" class="cl1" href="/foo" id="id1">XXX</a>」
