@@ -1,0 +1,9 @@
+main.css:1 Failed to load resource: net::ERR_FILE_NOT_FOUND
+main.js:2 
+                これは単純なHTMLファイルです。
+            
+main.js:3 
+                これは<b>単純な</b>HTMLファイルです。
+            
+main.js:7 HTMLを修正しました。
+main.js:11 innerHTMLを使った<b>修正後</b>のHTML
