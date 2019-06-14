@@ -1,0 +1,11 @@
+DOMStringMap(2)
+​
+action: "highlight"
+​
+containing: "ユニーク"
+​
+<prototype>: DOMStringMapPrototype
+​​
+constructor: ()
+​​
+<prototype>: {…}

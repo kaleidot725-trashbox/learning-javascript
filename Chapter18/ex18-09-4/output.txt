@@ -1,0 +1,6 @@
+capture: BODY main.js:6:17
+capture: DIV(キャンセルされた) main.js:6:17
+capture: BUTTON(キャンセルされた) main.js:6:17
+bubble: BUTTON(キャンセルされた) main.js:6:17
+bubble: DIV(キャンセルされた) main.js:6:17
+bubble: BODY(キャンセルされた)
