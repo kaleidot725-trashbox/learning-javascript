@@ -1,0 +1,4 @@
+undefined main.js:3:13
+object main.js:4:13
+true main.js:5:13
+true
