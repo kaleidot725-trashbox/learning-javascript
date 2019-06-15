@@ -1,0 +1,11 @@
+{ foo: 'bar' }
+シンシア
+{ value: 'シンシア',
+  writable: false,
+  enumerable: false,
+  configurable: false }
+こんにちは。私の名前はシンシアです。
+{ value: [Function: value],
+  writable: false,
+  enumerable: false,
+  configurable: false }

@@ -1,0 +1,10 @@
+{ value: 'bar',
+  writable: true,
+  enumerable: true,
+  configurable: true }
+{ value: 'bar',
+  writable: false,
+  enumerable: true,
+  configurable: true }
+/Users/kaleidot725/Documents/GitHub/learning-javascript/Chapter21/ex21-02-1/main.js:9
+obj.foo = 3;外周の長さ: 30
