@@ -1,0 +1,6 @@
+ node argv.js file1.txt file2.txt file3.txt
+[ '/usr/local/bin/node',
+  '/Users/kaleidot725/Documents/GitHub/learning-javascript/Chapter20/ex20-06-1/argv.js',
+  'file1.txt',
+  'file2.txt',
+  'file3.txt' ]

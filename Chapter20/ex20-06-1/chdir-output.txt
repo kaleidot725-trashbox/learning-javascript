@@ -1,0 +1,2 @@
+現在のディレクトリ:/Users/kaleidot725/Documents/GitHub/learning-javascript
+新しいCWDディレクトリ: /Users/kaleidot725/Documents/GitHub/learning-javascript/Chapter20/ex20-06-1

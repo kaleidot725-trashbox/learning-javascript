@@ -1,0 +1,8 @@
+ホスト名: Kaleidot725-2.local
+OSのタイプ: Darwin
+OSのプラットフォーム: darwin
+OSのリリース: 18.6.0
+OSのuptime: 8.9 days
+CPUのアーキテクチャ: x64
+CPUの個数: 17179.9 MB
+Cフリーメモリ: NaN MB
